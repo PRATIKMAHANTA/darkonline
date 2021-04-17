@@ -1,2 +1,2 @@
 # darkonline
-a simple code for online your project
+a simple discord.js code for online your bot
